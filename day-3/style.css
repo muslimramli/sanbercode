@@ -1,0 +1,63 @@
+.container-ku {
+    background-color: teal;
+    
+    padding-top: 20px;
+}
+
+.header {
+    background-color: tan;
+    
+    
+}
+
+.logo {
+    background-color: tomato;
+}
+
+.tengah-atas {
+
+    background-color: thistle;
+}
+
+.kanan-atas {
+    background-color: turquoise;
+}
+
+.search {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.menu-atas {
+    margin-top: 10px;
+}
+
+.navbar-ku {
+    background-color: sandybrown;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+span {
+    margin-right: 30px;
+}
+
+.sidebar-kiri {
+    background-color: sandybrown;
+    height: 500px;
+}
+
+.sidebar-tengah {
+    background-color: seagreen;
+}
+
+.sidebar-kanan {
+    background-color: slategrey;
+}
+
+.footer {
+    background-color: aquamarine ;
+}
